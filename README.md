@@ -1,6 +1,6 @@
 ## Hi, I am Alix!
 
-I am a physicist by training working at the intersection of computational science and biology. 
+🚣 Amateur rower and physicist by training working at the intersection of computational science and biology.
 
 As a PhD student at ETH Zurich, I develop mathematical and computational methods to study how dietary changes shape microbial interactions within the gut ecosystem. My work combines optimization, scientific computing, and systems biology to better understand complex biological systems.
 
@@ -38,10 +38,3 @@ ORCID [link](https://orcid.org/0009-0006-4104-4167)
 - Building reproducible scientific software
 - Exploring machine learning approaches for biological systems
 
-
-## ⚡ A Few Things I Like
-
-- Turning complex systems into models
-- Building tools that make research reproducible
-- Learning from fields outside my own
-- Rowing on the lake in the morning, at sunrise
