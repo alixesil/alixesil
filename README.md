@@ -23,8 +23,6 @@ Here are a few projects that showcase my work in scientific computing and quanti
 
 Google Scholar (tba)
 
-ORCID [link](https://orcid.org/0009-0006-4104-4167)
-
 
 ## 💡 Questions That Drive My Research
 
