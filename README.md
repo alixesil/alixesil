@@ -22,6 +22,7 @@ Here are a few projects that showcase my work in scientific computing and quanti
 - *Evolution of cooperation in deme-structured populations on graphs* (Physical Review E, 2024)  
 
 Google Scholar (tba)
+
 ORCID [link](https://orcid.org/0009-0006-4104-4167)
 
 
