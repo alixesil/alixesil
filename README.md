@@ -16,17 +16,13 @@ Here are a few projects that showcase my work in scientific computing and quanti
 - **Project B** — tba.
 
 
-## 📚 Publications
+## 📚 Publications & Links
 
-- Google Scholar (tba)
-- ORCID [link](https://orcid.org/0009-0006-4104-4167)
+- *Minimal metabolic exchanges for microbial communities in a chemostat at steady state* (Computational Methods in Systems Biology Conference, 2025)  
+- *Evolution of cooperation in deme-structured populations on graphs* (Physical Review E, 2024)  
 
-
-## 🌱 Current Focus
-
-- Developing optimization frameworks for microbial community modeling
-- Building reproducible scientific software
-- Exploring machine learning approaches for biological systems
+Google Scholar (tba)
+ORCID [link](https://orcid.org/0009-0006-4104-4167)
 
 
 ## 💡 Questions That Drive My Research
@@ -36,10 +32,11 @@ Here are a few projects that showcase my work in scientific computing and quanti
 - How can scientific software be made more reproducible and scalable?
 
 
-## 📚 Publications & Links
+## 🌱 Current Focus
 
-- *Minimal metabolic exchanges for microbial communities in a chemostat at steady state* (Computational Methods in Systems Biology Conference, 2025)  
-- *Evolution of cooperation in deme-structured populations on graphs* (Physical Review E, 2024)  
+- Developing optimization frameworks for microbial community modeling
+- Building reproducible scientific software
+- Exploring machine learning approaches for biological systems
 
 
 ## ⚡ A Few Things I Like
