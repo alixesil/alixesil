@@ -50,7 +50,7 @@ Here are a few projects that showcase my work in scientific computing and quanti
 ## 📚 Publications
 
 - Google Scholar (tba)
-- ORCID [https://orcid.org/0009-0006-4104-4167]
+- ORCID [link](https://orcid.org/0009-0006-4104-4167)
 
 
 ## 🌱 Current Focus
@@ -62,14 +62,15 @@ Here are a few projects that showcase my work in scientific computing and quanti
 
 ## 💡 Questions That Drive My Research
 
-- How can optimization improve predictions of microbial community assembly?
-- How can ecological interactions be inferred from sparse experimental data?
+- How can optimization under biological constraints be used to predict microbial community behavior?
+- How does the availability of essential nutrients in the environment shape how microbial species interact and coexist?
 - How can scientific software be made more reproducible and scalable?
 
 
 ## 📚 Publications & Links
 
-
+- *Minimal metabolic exchanges for microbial communities in a chemostat at steady state* (Computational Methods in Systems Biology Conference, 2025)  
+- *Evolution of cooperation in deme-structured populations on graphs* (Physical Review E, 2024)  
 
 
 ## ⚡ A Few Things I Like
