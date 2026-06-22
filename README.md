@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Alix, a physicist by training, now working at the interface of computational science and biology.
+
+I am currently a PhD student at ETH Zurich, solving optimization problems to predict how microbes interact together in different culture environments.
+
+---
+
+
 <!--
 **alixesil/alixesil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
