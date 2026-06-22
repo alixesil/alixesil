@@ -1,20 +1,65 @@
 ## Hi, I am Alix!
 
-I am a physicist by training working at the intersection of optimization, computational science, and biology. As a PhD student at ETH Zurich, I develop mathematical and computational models to predict microbial interactions and community dynamics across diverse environmental conditions. My work combines optimization, scientific computing, and systems biology to better understand complex biological systems.
+I am a physicist by training working at the intersection of optimization, computational science, and biology. 
+
+As a PhD student at ETH Zurich, I develop mathematical and computational methods to predict microbial interactions and community dynamics across diverse environmental conditions. My work combines optimization, scientific computing, and systems biology to better understand complex biological systems.
+
+I am particularly interested in translating quantitative models into robust, reproducible software for scientific discovery.
+
 ---
 
+## 🔬 Research Interests
 
-<!--
-**alixesil/alixesil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Microbial ecology
+- Systems biology
+- Mathematical modeling
+- Optimization
+- Scientific computing
+- Complex systems
+- Data-driven biology
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+**Languages**
+- Python
+- Julia
+- R
+- SQL
+
+**Scientific Computing**
+- NumPy
+- SciPy
+- Pandas
+- JAX
+- PyTorch
+
+**Methods**
+- Mathematical optimization
+- Statistical inference
+- Network analysis
+- Dynamical systems
+- Machine learning
+
+
+## 📌 Featured Projects
+
+Here are a few projects that showcase my work in scientific computing and quantitative biology:
+
+- **Project A** — Short description.
+- **Project B** — Short description.
+- **Project C** — Short description.
+
+
+## 📚 Publications
+
+- [Google Scholar](...)
+- ORCID (...)
+- Personal website (...)
+
+
+## 🌱 Current Focus
+
+- Developing optimization frameworks for microbial community modeling
+- Building reproducible scientific software
+- Exploring machine learning approaches for biological systems
