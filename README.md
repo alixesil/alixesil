@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hi, I am Alix!
 
-I am Alix, a physicist by training, now working at the interface of computational science and biology.
-
-I am currently a PhD student at ETH Zurich, solving optimization problems to predict how microbes interact together in different culture environments.
-
+I am a physicist by training working at the intersection of optimization, computational science, and biology. As a PhD student at ETH Zurich, I develop mathematical and computational models to predict microbial interactions and community dynamics across diverse environmental conditions. My work combines optimization, scientific computing, and systems biology to better understand complex biological systems.
 ---
 
 
