@@ -1,6 +1,6 @@
 ## Hi, I am Alix!
 
-I am a physicist by training working at the intersection of optimization, computational science, and biology. 
+I am a physicist by training working at the intersection of computational science and biology. 
 
 As a PhD student at ETH Zurich, I develop mathematical and computational methods to predict microbial interactions and community dynamics across diverse environmental conditions. My work combines optimization, scientific computing, and systems biology to better understand complex biological systems.
 
@@ -11,7 +11,6 @@ I am particularly interested in translating quantitative models into robust, rep
 ## 🔬 Research Interests
 
 - Microbial ecology
-- Systems biology
 - Mathematical modeling
 - Optimization
 - Scientific computing
@@ -23,22 +22,20 @@ I am particularly interested in translating quantitative models into robust, rep
 
 **Languages**
 - Python
-- Julia
+- C++
 - R
-- SQL
+- MATLAB
 
 **Scientific Computing**
 - NumPy
 - SciPy
 - Pandas
-- JAX
-- PyTorch
+- scikit-learn
+- TensorFlow
 
 **Methods**
 - Mathematical optimization
 - Statistical inference
-- Network analysis
-- Dynamical systems
 - Machine learning
 
 
@@ -46,15 +43,14 @@ I am particularly interested in translating quantitative models into robust, rep
 
 Here are a few projects that showcase my work in scientific computing and quantitative biology:
 
-- **Project A** — Short description.
-- **Project B** — Short description.
-- **Project C** — Short description.
+- **Project A** — tba.
+- **Project B** — tba.
 
 
 ## 📚 Publications
 
-- [Google Scholar](...)
-- ORCID (...)
+- Google Scholar (tba)
+- ORCID ([https://orcid.org/0009-0006-4104-4167])
 - Personal website (...)
 
 
@@ -63,3 +59,10 @@ Here are a few projects that showcase my work in scientific computing and quanti
 - Developing optimization frameworks for microbial community modeling
 - Building reproducible scientific software
 - Exploring machine learning approaches for biological systems
+
+
+## 🔍 Current Research Questions
+
+- How can optimization improve predictions of microbial community assembly?
+- How can ecological interactions be inferred from sparse experimental data?
+- How can scientific software be made more reproducible and scalable?
