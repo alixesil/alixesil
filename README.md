@@ -8,37 +8,6 @@ I am particularly interested in translating quantitative models into robust, rep
 
 ---
 
-## 🔬 Research Interests
-
-- Microbial ecology
-- Mathematical modeling
-- Optimization
-- Scientific computing
-- Complex systems
-- Data-driven biology
-
-
-## 🛠️ Technical Skills
-
-**Languages**
-- Python
-- C++
-- R
-- MATLAB
-
-**Scientific Computing**
-- NumPy
-- SciPy
-- Pandas
-- scikit-learn
-- TensorFlow
-
-**Methods**
-- Mathematical optimization
-- Statistical inference
-- Machine learning
-
-
 ## 📌 Featured Projects
 
 Here are a few projects that showcase my work in scientific computing and quantitative biology:
