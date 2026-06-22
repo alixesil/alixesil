@@ -4,16 +4,14 @@
 
 As a PhD student at ETH Zurich, I develop mathematical and computational methods to study how dietary changes shape microbial interactions within the gut ecosystem. My work combines optimization, scientific computing, and systems biology to better understand complex biological systems.
 
-I am particularly interested in translating quantitative models into robust, reproducible software for scientific discovery.
-
 ---
 
 ## 📌 Featured Projects
 
 Here are a few projects that showcase my work in scientific computing and quantitative biology:
 
-- **Project A** — tba.
-- **Project B** — tba.
+- **Project A** — tba (still private).
+- **Project B** — tba (still private).
 
 
 ## 📚 Publications & Links
@@ -26,8 +24,8 @@ Google Scholar (tba)
 
 ## 💡 Questions That Drive My Research
 
-- How can optimization under biological constraints be used to predict microbial community behavior?
 - How does the availability of essential nutrients in the environment shape how microbial species interact and coexist?
+- How can optimization under biological constraints be used to predict microbial community behavior?
 - How can scientific software be made more reproducible and scalable?
 
 
@@ -35,5 +33,4 @@ Google Scholar (tba)
 
 - Developing optimization frameworks for microbial community modeling
 - Building reproducible scientific software
-- Exploring machine learning approaches for biological systems
 
