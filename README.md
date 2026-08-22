@@ -1,6 +1,6 @@
 ## Hi!
 
-🚣 I am an amateur rower and physicist by training working now at the intersection of computational science and biology.
+🚣 I am a physicist by training working now at the intersection of computational science and biology.
 
 I am currently doing a PhD at ETH Zurich where I combine optimization and systems biology to better understand complex biological systems. 
 
