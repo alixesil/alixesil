@@ -22,16 +22,3 @@ Here are a few projects that I am currently working on:
 - *Evolution of cooperation in deme-structured populations on graphs* (Physical Review E, 2024)  
 
 Google Scholar (tba)
-
-
-## 💡 Questions That Drive My Research
-
-- How does the availability of nutrients in the environment shape how microbial species interact and coexist?
-- How can optimization under biological constraints be used to predict microbial community behavior?
-
-
-## 🌱 Current Focus
-
-- Developing optimization frameworks for microbial community modeling
-- Focusing on making my research more reliable and reproducible
-
