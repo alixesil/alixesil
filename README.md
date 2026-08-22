@@ -1,6 +1,6 @@
-## Hi, I am Alix!
+## Hi!
 
-🚣 An amateur rower and physicist by training working now at the intersection of computational science and biology.
+🚣 I am an amateur rower and physicist by training working now at the intersection of computational science and biology.
 
 I am currently doing a PhD at ETH Zurich where I combine optimization and systems biology to better understand complex biological systems. 
 
@@ -10,7 +10,7 @@ More precisely, I develop mathematical and computational methods to study how di
 
 ## 📌 Featured Projects
 
-Here are a few projects that showcase my work in scientific computing and quantitative biology:
+Here are a few projects that I am currently working on:
 
 - **Project A** — tba (still private).
 - **Project B** — tba (still private).
@@ -28,7 +28,6 @@ Google Scholar (tba)
 
 - How does the availability of nutrients in the environment shape how microbial species interact and coexist?
 - How can optimization under biological constraints be used to predict microbial community behavior?
-- How can scientific software be made more reproducible and scalable?
 
 
 ## 🌱 Current Focus
