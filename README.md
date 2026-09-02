@@ -12,7 +12,7 @@ More precisely, I develop mathematical and computational methods to study how di
 
 Here are a few projects that I am currently working on:
 
-- **Project A** — tba (still private).
+- **Project A** — What metabolic exchanges are strictly necessary for species to coexist in a chemostat? (still private).
 - **Project B** — tba (still private).
 
 
